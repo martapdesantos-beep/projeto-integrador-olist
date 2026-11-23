@@ -22,7 +22,6 @@ Tabelas utilizadas: olist_order_items_dataset, olist_costumers_dataset, olist_or
 ## Tecnologias
 - Python (pandas, numpy, matplotlib)
 - Google Colab
-- Git / GitHub
 
 
 ## Equipe
