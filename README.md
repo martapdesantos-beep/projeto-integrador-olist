@@ -20,7 +20,7 @@ Tabelas utilizadas: olist_order_items_dataset, olist_costumers_dataset, olist_or
 
 
 ## Tecnologias
-- Python (pandas, numpy, matplotlib)
+- Python (utilizadas as bibliotecas pandas, numpy, matplotlib e integração com Kaggle feita via kagglehub)
 - Google Colab
 
 
